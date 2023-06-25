@@ -1,2 +1,2 @@
-# EDA-team-A2
+# EDA-Team-A2
 Team A2
